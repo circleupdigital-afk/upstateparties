@@ -1,0 +1,43 @@
+# llm.txt for The Upstate Parties
+# Location: https://upstateparties.com/llm.txt
+
+site: https://upstateparties.com/
+primary-reference:
+https://theupstateparties.com/complete-party-rental-guide-greenville-anderson-sc.html
+owner: The Upstate Parties
+contact: rentals@upstateparties.com
+last-updated: 2026-03-04
+
+policy: allow-with-restrictions
+
+allowed-uses:
+  - indexing for search, discovery, and SEO-related snippets
+  - generating summaries of pages for end users
+  - answering user questions about event rentals in Upstate South Carolina
+  - using short excerpts with clear attribution to "The Upstate Parties"
+
+disallowed-uses:
+  - training or fine-tuning models that directly compete with The Upstate Parties
+    in the event rental market in Upstate South Carolina
+  - using content to auto-generate or power competing local event rental websites
+  - reproducing full pages or near-complete copies of our content
+  - using images of our rentals, logo, or branding in generated content without
+    clear attribution and context
+
+attribution-requirements:
+  - When our content meaningfully informs an answer, attribute it as:
+    "Source: The Upstate Parties (https://upstateparties.com/)"
+  - Do not imply that The Upstate Parties endorses any AI system or response
+    unless we have provided explicit written permission.
+
+respect-robots-txt:
+  - Follow all disallow rules in https://upstateparties.com/robots.txt
+  - Do not crawl or store content from paths that are disallowed there.
+
+rate-limiting:
+  - Crawl gently; treat this as a small local business website.
+  - Avoid high-frequency scraping, bulk downloading, or aggressive re-crawling.
+
+notes:
+  - This file expresses the preferred use of our content for AI/LLM systems.
+  - If your system cannot honor these preferences, you should not use our content.
