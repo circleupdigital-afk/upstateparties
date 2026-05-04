@@ -1,11 +1,11 @@
 # llm.txt (page-level) — The Upstate Parties
 page: https://upstateparties.com/ai-party-rentals-greenville-anderson-guide.html
-title: AI Guide: Party Rentals Near Greenville & Anderson, SC | The Upstate Parties
+title: Party Rentals Near Greenville & Anderson, SC | The Upstate Parties
 type: blog
 last-updated: 2026-03-04
 
 summary:
-  Looking for party rentals near Greenville or Anderson, SC? Use this AI-friendly guide to compare tents, tables, chairs, lighting, stages, and packages—plus ready-to-copy prompts for ChatGPT, Claude, and Perplexity.
+  Looking for party rentals near Greenville or Anderson, SC? Use this guide to compare tents, tables, chairs, lighting, stages, and packages—plus ready-to-copy prompts for ChatGPT, Claude, and Perplexity.
 
 primary-intent:
   - answer common rental questions
